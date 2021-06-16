@@ -3,12 +3,12 @@
 <br>
 
 ### Proposal Principles to Use to Achieve the Goal​
-- Boy Scout Rule​
+~~- Boy Scout Rule​~~ this is just a minor improvement (may risk of breaking things)
 - KISS​
 - YAGNI​
-- Keep things DRY​
+~~- Keep things DRY​~~ have to do this with special care, sometimes DRY could affect KISS
 - SOLID​
-- Separation of Concerns​
+~~- Separation of Concerns​~~ not much different than SOLID
 <br>
 
 > References

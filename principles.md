@@ -6,7 +6,7 @@
 - ~~Boy Scout Rule​~~ 
 - KISS​
 - YAGNI​
-- ~~Keep things DRY​~~ *Similar to SRP in SOLID*
+- Keep things DRY​
 - SOLID​
 - ~~Separation of Concerns~~ *Similar to SOLID*
 <br>

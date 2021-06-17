@@ -3,12 +3,12 @@
 <br>
 
 ### Proposal Principles to Use to Achieve the Goal​
-- Boy Scout Rule​
+- ~~Boy Scout Rule​~~ 
 - KISS​
 - YAGNI​
 - Keep things DRY​
 - SOLID​
-- Separation of Concerns​
+- ~~Separation of Concerns~~ *Similar to SOLID*
 <br>
 
 > References

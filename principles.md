@@ -7,12 +7,12 @@
   - Make it work: the beaufitul code means nothing to users if it doesn't work, which mean the working code should meet the minimum requirements for the business to call project a success. 
   - Make it right: 1 written working code will be read at least 10 times and these code is going to be changed as the nature of the software development. Therefore, Add bells and whistles to make the program less prone to error and more feature rich.
   - Make it fast: Find and eliminate waste in the process. Some assumtions from the start will have been incorrect. Remove unecessary business logic. Included in this step is to improve code for better performance.
-- Boy Scout Rule​
+- ~~Boy Scout Rule​~~ - this is minor. A lot of time it's better don't changes that is working.
 - KISS​
 - YAGNI​
-- Keep things DRY​
+- Keep things DRY
 - SOLID​
-- Separation of Concerns​
+- ~~Separation of Concerns~~​ - Same with Bao Anh and Thang - Similar to SOLD
 <br>
 
 > References

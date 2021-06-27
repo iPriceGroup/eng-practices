@@ -2,17 +2,12 @@
 #### Write code for the next engineer to <b>read easily</b>
 <br>
 
-### Proposal Principles to Use to Achieve the Goal​
-- Boy Scout Rule​
+#### Some Principles to Use to Achieve the Goal​
 - KISS​
 - YAGNI​
-- Keep things DRY​
-- SOLID​
-- Separation of Concerns​
+- SRP in S.O.L.I.D​
 <br>
 
 > References
 >
-> https://github.com/webpro/programming-principles
-> <br>
-> https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+> https://github.com/webpro/programming-principles; https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
